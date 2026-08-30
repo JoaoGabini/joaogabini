@@ -10,13 +10,11 @@
 ✧˖ 
 `Programador / Editor`
 
----
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=25&letterSpacing=1px&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" alt="Typing SVG" /></a>
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&duration=1&pause=10000000000000000&color=F7D680&background=B87544&center=true&vCenter=true&width=435&lines=%E0%BC%BB%F0%96%A4%93%E0%BC%BA+%F0%9D%91%B3%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88%F0%9D%92%96%F0%9D%92%82%F0%9D%92%88%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%94+.+%DD%81%E2%82%8A+%E2%8A%B9+.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&duration=1&pause=10000000000000000&color=F7D680&background=B8754400&center=true&vCenter=true&width=435&lines=%E0%BC%BB%F0%96%A4%93%E0%BC%BA+%F0%9D%91%B3%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88%F0%9D%92%96%F0%9D%92%82%F0%9D%92%88%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%94+.+%DD%81%E2%82%8A+%E2%8A%B9+.+" alt="Typing SVG" /></a>
 
 <div align="center">
 
