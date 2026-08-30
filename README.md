@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media.tenor.com/6ZUs587mM7AAAAAC/stars-night.gif" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&duration=1&pause=10000000000000000&color=F7D487&background=80512F&center=true&vCenter=true&width=435&lines=%E2%8B%86%EF%BD%A1%F0%96%A6%B9%C2%B0%E2%AD%92%CB%9A%EF%BD%A1%E2%8B%86+%F0%9D%99%B9%F0%9D%9A%98%F0%9D%9A%8A%CC%83%F0%9D%9A%98+%F0%9D%99%B6%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%92+%E2%8B%86%EF%BD%A1%CB%9A%E2%AD%92%C2%B0%F0%96%A6%B9%EF%BD%A1%E2%8B%86" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&duration=1&pause=10000000000000000&color=F7D487&center=true&vCenter=true&width=435&lines=%E2%8B%86%EF%BD%A1%F0%96%A6%B9%C2%B0%E2%AD%92%CB%9A%EF%BD%A1%E2%8B%86+%F0%9D%99%B9%F0%9D%9A%98%F0%9D%9A%8A%CC%83%F0%9D%9A%98+%F0%9D%99%B6%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%92+%E2%8B%86%EF%BD%A1%CB%9A%E2%AD%92%C2%B0%F0%96%A6%B9%EF%BD%A1%E2%8B%86" alt="Typing SVG" /></a>
+---
 
 `16 anos` 
 ✧˖ 
@@ -10,10 +10,13 @@
 ✧˖ 
 `Programador / Editor`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=25&letterSpacing=1px&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" alt="Typing SVG" /></a>
 ---
 
-## ༻𖤓༺ 𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔 . ݁₊ ⊹ . 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=25&letterSpacing=1px&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" alt="Typing SVG" /></a>
+
+---
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&duration=1&pause=10000000000000000&color=F7D680&background=B87544&center=true&vCenter=true&width=435&lines=%E0%BC%BB%F0%96%A4%93%E0%BC%BA+%F0%9D%91%B3%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88%F0%9D%92%96%F0%9D%92%82%F0%9D%92%88%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%94+.+%DD%81%E2%82%8A+%E2%8A%B9+.+" alt="Typing SVG" /></a>
 
 <div align="center">
 
@@ -82,4 +85,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⡇⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠇⠘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+
+---
+
 </div> 
