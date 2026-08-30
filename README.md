@@ -10,6 +10,8 @@
 ✧˖ 
 `Programador / Editor`
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=30&letterSpacing=1px&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" alt="Typing SVG" /></a>
+
 <img src="https://readme-typing-svg.demolab.com/demo/?font=Lora&weight=600&size=30&letterSpacing=1px&pause=1200&color=FFAB65&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" />
 </div>
 
