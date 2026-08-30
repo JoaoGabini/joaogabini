@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/6ZUs587mM7AAAAAC/stars-night.gif" width="100%">
 
-# ⋆｡𖦹°⭒˚｡⋆ 𝙹𝚘𝚊̃𝚘 𝙶𝚊𝚋𝚒𝚗𝚒 ⋆｡˚⭒°𖦹｡⋆
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&duration=1&pause=10000000000000000&color=F7D487&width=435&lines=%E2%8B%86%EF%BD%A1%F0%96%A6%B9%C2%B0%E2%AD%92%CB%9A%EF%BD%A1%E2%8B%86+%F0%9D%99%B9%F0%9D%9A%98%F0%9D%9A%8A%CC%83%F0%9D%9A%98+%F0%9D%99%B6%F0%9D%9A%8A%F0%9D%9A%8B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%92+%E2%8B%86%EF%BD%A1%CB%9A%E2%AD%92%C2%B0%F0%96%A6%B9%EF%BD%A1%E2%8B%86" alt="Typing SVG" /></a>
 
 `16 anos` 
 ✧˖ 
@@ -10,11 +10,7 @@
 ✧˖ 
 `Programador / Editor`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=30&letterSpacing=1px&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" alt="Typing SVG" /></a>
-
-<img src="https://readme-typing-svg.demolab.com/demo/?font=Lora&weight=600&size=30&letterSpacing=1px&pause=1200&color=FFAB65&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" />
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=25&letterSpacing=1px&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" alt="Typing SVG" /></a>
 ---
 
 ## ༻𖤓༺ 𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔 . ݁₊ ⊹ . 
@@ -29,6 +25,8 @@
 
 <div align="center">
 
+### Linkedin
+
   <a href="https://www.linkedin.com/in/joaogabini/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
@@ -36,8 +34,8 @@
 </div>
 
 ---
-
-``` ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡱⡌⠳⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⡝⣦⠀⠹⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣾⣷⡀⠈⢻⣆⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -84,5 +82,4 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⡇⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠇⠘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-
 </div> 
