@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/6ZUs587mM7AAAAAC/stars-night.gif" width="100%">
 
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&duration=1&pause=10000000000000000&color=F7D487&width=435&lines=Jo%C3%A3o+Gabini)](https://git.io/typing-svg)" />
+# ⋆｡𖦹°⭒˚｡⋆ 𝙹𝚘𝚊̃𝚘 𝙶𝚊𝚋𝚒𝚗𝚒 ⋆｡˚⭒°𖦹｡⋆
 
 `16 anos` 
 ✧˖ 
@@ -10,7 +10,7 @@
 ✧˖ 
 `Programador / Editor`
 
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=30&letterSpacing=1px&duration=2500&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju)](https://git.io/typing-svg)" />
+<img src="https://readme-typing-svg.demolab.com/demo/?font=Lora&weight=600&size=30&letterSpacing=1px&pause=1200&color=FFAB65&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju" />
 </div>
 
 ---
