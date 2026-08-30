@@ -4,17 +4,13 @@
 
 # ⋆｡𖦹°⭒˚｡⋆ 𝙹𝚘𝚊̃𝚘 𝙶𝚊𝚋𝚒𝚗𝚒 ⋆｡˚⭒°𖦹｡⋆
 
----
-
 `16 anos` 
 ✧˖ 
 `Brasil`
 ✧˖ 
 `Programador / Editor`
 
----
-
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=30&letterSpacing=-1px&duration=2500&pause=1200&color=FFAB65&center=true&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju)](https://git.io/typing-svg)" />
+<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=30&letterSpacing=1px&duration=2500&pause=1200&color=FFAB65&width=435&height=100&lines=Ser+o+Pseudofruto%2C+A+Pele+do+Caju)](https://git.io/typing-svg)" />
 </div>
 
 ---
@@ -39,8 +35,8 @@
 
 ---
 
-``` ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡱⡌⠳⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+``` ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡱⡌⠳⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⡝⣦⠀⠹⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣾⣷⡀⠈⢻⣆⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣄⢂⠘⡄⠀⠀⢀⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
